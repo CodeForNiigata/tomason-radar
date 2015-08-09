@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#modal-marker {
+  display: none;
+  .photo {
+    max-width: 40%;
+    max-height: 40%;
+  }
+  .title {
+    margin-top: 1em;
+  }
+}
